@@ -1,0 +1,26 @@
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.log
+*.idb
+*.exe
+*.recipe
+
+# Visual Studio cache
+.vs/
+*.user
+*.ipch
+*.opendb
+
+# Keep only source, headers, project, and text files
+!*.cpp
+!*.h
+!*.vcxproj
+!*.filters
+!*.sln
+!*.txt
